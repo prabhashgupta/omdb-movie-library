@@ -6,7 +6,7 @@
 2. npm i
 3. create **.env** file
 4. add two variable 
-      * APIKEY={add you apikey}
+      * APIKEY={add your apikey}
       * OMDBAPIURL=http://www.omdbapi.com/
 5. npm run build && node .
 
