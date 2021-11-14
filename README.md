@@ -1,7 +1,7 @@
-**Prerequisite**
+*Prerequisite*
 * Install Nodejs
 
-**Setups to run the project**
+*Setups to run the project*
 1. git clone https://github.com/prabhashgupta/omdb-movie-library.git
 2. npm i
 3. create **.env** file
@@ -10,7 +10,7 @@
       * OMDBAPIURL=http://www.omdbapi.com/
 5. npm run build && node .
 
-**Requirement**
+*Requirement*
 
 Integrate Movie search API of OMDB
 
