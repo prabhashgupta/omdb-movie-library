@@ -5,8 +5,9 @@
 1. git clone https://github.com/prabhashgupta/omdb-movie-library.git
 2. npm i
 3. create **.env** file
-4. add two variable APIKEY=<add you API key> 
-OMDBAPIURL=http://www.omdbapi.com/
+4. add two variable 
+      * APIKEY=<add you API key> 
+      * OMDBAPIURL=http://www.omdbapi.com/
 5. npm run build && node .
 
 ***Requirement***
